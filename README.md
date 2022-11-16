@@ -9,3 +9,4 @@ There is total N persons. They made circle by standing one after one. The person
 (Note: If there is total 99 persons then the person 99 kill person 1 and give it to person 3. So it is not necessary that only even numbers will be eliminated.)
 
 Solution of the above puzzle is getting by running the initial_start.py file.
+(Don't read this: This is just writing to check difference of main branch and sub branch.
