@@ -1,2 +1,1 @@
-# Demo
-Just demo repository
+This repository is created to solve one puzzle
